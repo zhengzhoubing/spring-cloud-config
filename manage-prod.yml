@@ -1,3 +1,6 @@
 spring:
   profiles:
     active: prod
+
+user:
+  name: "张三 prod"
