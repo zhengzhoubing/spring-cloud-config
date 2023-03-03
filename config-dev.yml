@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev
+
+user:
+  info: "name: 张三 dev"
