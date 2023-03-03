@@ -3,4 +3,4 @@ spring:
     active: prod
 
 user:
-  name: "张三 prod"
+  info: "name: 张三 prod"

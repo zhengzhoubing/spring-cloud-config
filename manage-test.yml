@@ -4,4 +4,4 @@ spring:
 
 
 user:
-  name: "张三 test"
+  info: "name: 张三 test"
